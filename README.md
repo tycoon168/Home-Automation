@@ -8,4 +8,7 @@ A simple working arduino code for enabling Home Automation using Bluetooth
 
 ![alt text](https://github.com/tycoon168/Home-Automation/blob/test/ha1.png?raw=true)
 ![alt text](https://github.com/tycoon168/Home-Automation/blob/test/ha2.jpeg?raw=true)
-![alt text](https://github.com/tycoon168/Home-Automation/blob/Fix-Description/ha3.jpeg?raw=true)
+![alt text](https://github.com/tycoon168/Home-Automation/blob/test/ha3.jpeg?raw=true)
+
+--- 
+> Home automation or domotics is building automation for a home, called a smart home or smart house. A home automation system will control lighting, climate, entertainment systems, and appliances. It may also include home security such as access control and alarm systems.
