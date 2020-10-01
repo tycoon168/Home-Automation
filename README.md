@@ -6,6 +6,6 @@ A simple working arduino code for enabling Home Automation using Bluetooth
 
 ---
 
-![alt text](https://github.com/tycoon168/Dynamic-Programming/blob/test/ha1.png?raw=true)
-![alt text](https://github.com/tycoon168/Dynamic-Programming/blob/test/ha2.jpeg?raw=true)
-![alt text](https://github.com/tycoon168/Dynamic-Programming/blob/Fix-Description/ha3.png?raw=true)
+![alt text](https://github.com/tycoon168/Home-Automation/blob/test/ha1.png?raw=true)
+![alt text](https://github.com/tycoon168/Home-Automation/blob/test/ha2.jpeg?raw=true)
+![alt text](https://github.com/tycoon168/Home-Automation/blob/Fix-Description/ha3.jpeg?raw=true)
